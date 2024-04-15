@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <h1 className={styles.title}>
-          Learn <a href="https://nextjs.org">Next.js!</a>
+          Hello! I'm <a href="http://localhost:3000/posts/first-post">Won Hyeok Chang</a>
         </h1>
 
         <p className={styles.description}>
